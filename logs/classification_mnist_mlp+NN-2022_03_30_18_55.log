@@ -1,0 +1,44 @@
+2022-03-30 18:55:47,966 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_NN_3_ckpt.pth`
+2022-03-30 18:55:47,969 - voting.py[line:240] - INFO: Epoch: 000 | Validation Acc: 96.840 % | Historical Best: 96.840 %
+2022-03-30 18:55:58,058 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_NN_3_ckpt.pth`
+2022-03-30 18:55:58,061 - voting.py[line:240] - INFO: Epoch: 001 | Validation Acc: 97.640 % | Historical Best: 97.640 %
+2022-03-30 18:56:07,863 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_NN_3_ckpt.pth`
+2022-03-30 18:56:07,866 - voting.py[line:240] - INFO: Epoch: 002 | Validation Acc: 97.950 % | Historical Best: 97.950 %
+2022-03-30 18:56:17,548 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_NN_3_ckpt.pth`
+2022-03-30 18:56:17,551 - voting.py[line:240] - INFO: Epoch: 003 | Validation Acc: 98.080 % | Historical Best: 98.080 %
+2022-03-30 18:56:27,232 - voting.py[line:240] - INFO: Epoch: 004 | Validation Acc: 97.910 % | Historical Best: 98.080 %
+2022-03-30 18:56:36,904 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_NN_3_ckpt.pth`
+2022-03-30 18:56:36,906 - voting.py[line:240] - INFO: Epoch: 005 | Validation Acc: 98.200 % | Historical Best: 98.200 %
+2022-03-30 18:56:46,591 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_NN_3_ckpt.pth`
+2022-03-30 18:56:46,594 - voting.py[line:240] - INFO: Epoch: 006 | Validation Acc: 98.210 % | Historical Best: 98.210 %
+2022-03-30 18:56:56,269 - voting.py[line:240] - INFO: Epoch: 007 | Validation Acc: 98.160 % | Historical Best: 98.210 %
+2022-03-30 18:57:05,937 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_NN_3_ckpt.pth`
+2022-03-30 18:57:05,939 - voting.py[line:240] - INFO: Epoch: 008 | Validation Acc: 98.320 % | Historical Best: 98.320 %
+2022-03-30 18:57:15,600 - voting.py[line:240] - INFO: Epoch: 009 | Validation Acc: 98.210 % | Historical Best: 98.320 %
+2022-03-30 18:57:23,272 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_MLP_3_ckpt.pth`
+2022-03-30 18:57:23,273 - voting.py[line:240] - INFO: Epoch: 000 | Validation Acc: 96.000 % | Historical Best: 96.000 %
+2022-03-30 18:57:30,918 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_MLP_3_ckpt.pth`
+2022-03-30 18:57:30,920 - voting.py[line:240] - INFO: Epoch: 001 | Validation Acc: 97.380 % | Historical Best: 97.380 %
+2022-03-30 18:57:38,557 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_MLP_3_ckpt.pth`
+2022-03-30 18:57:38,559 - voting.py[line:240] - INFO: Epoch: 002 | Validation Acc: 97.790 % | Historical Best: 97.790 %
+2022-03-30 18:57:46,202 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_MLP_3_ckpt.pth`
+2022-03-30 18:57:46,204 - voting.py[line:240] - INFO: Epoch: 003 | Validation Acc: 97.820 % | Historical Best: 97.820 %
+2022-03-30 18:57:53,850 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_MLP_3_ckpt.pth`
+2022-03-30 18:57:53,852 - voting.py[line:240] - INFO: Epoch: 004 | Validation Acc: 97.930 % | Historical Best: 97.930 %
+2022-03-30 18:58:01,471 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_MLP_3_ckpt.pth`
+2022-03-30 18:58:01,473 - voting.py[line:240] - INFO: Epoch: 005 | Validation Acc: 98.270 % | Historical Best: 98.270 %
+2022-03-30 18:58:09,095 - voting.py[line:240] - INFO: Epoch: 006 | Validation Acc: 98.160 % | Historical Best: 98.270 %
+2022-03-30 18:58:16,729 - voting.py[line:240] - INFO: Epoch: 007 | Validation Acc: 98.100 % | Historical Best: 98.270 %
+2022-03-30 18:58:24,334 - voting.py[line:240] - INFO: Epoch: 008 | Validation Acc: 98.240 % | Historical Best: 98.270 %
+2022-03-30 18:58:31,956 - voting.py[line:240] - INFO: Epoch: 009 | Validation Acc: 98.230 % | Historical Best: 98.270 %
+Accuracy pf the ensemble network: 97.72%
+Accuracy of [0]:99.18367346938776%
+Accuracy of [1]:98.6784140969163%
+Accuracy of [2]:98.06201550387597%
+Accuracy of [3]:97.52475247524752%
+Accuracy of [4]:97.14867617107943%
+Accuracy of [5]:98.4304932735426%
+Accuracy of [6]:97.49478079331942%
+Accuracy of [7]:97.56809338521401%
+Accuracy of [8]:97.22792607802874%
+Accuracy of [9]:95.8374628344896%

@@ -1,0 +1,18 @@
+2022-03-30 14:42:44,896 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2022-03-30 14:42:44,902 - voting.py[line:240] - INFO: Epoch: 000 | Validation Acc: 96.240 % | Historical Best: 96.240 %
+2022-03-30 14:43:09,076 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2022-03-30 14:43:09,080 - voting.py[line:240] - INFO: Epoch: 001 | Validation Acc: 97.450 % | Historical Best: 97.450 %
+2022-03-30 14:43:33,048 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2022-03-30 14:43:33,052 - voting.py[line:240] - INFO: Epoch: 002 | Validation Acc: 97.770 % | Historical Best: 97.770 %
+2022-03-30 14:43:57,105 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2022-03-30 14:43:57,109 - voting.py[line:240] - INFO: Epoch: 003 | Validation Acc: 98.180 % | Historical Best: 98.180 %
+2022-03-30 14:44:21,060 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2022-03-30 14:44:21,064 - voting.py[line:240] - INFO: Epoch: 004 | Validation Acc: 98.310 % | Historical Best: 98.310 %
+2022-03-30 14:44:44,994 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2022-03-30 14:44:44,998 - voting.py[line:240] - INFO: Epoch: 005 | Validation Acc: 98.320 % | Historical Best: 98.320 %
+2022-03-30 14:45:08,897 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2022-03-30 14:45:08,901 - voting.py[line:240] - INFO: Epoch: 006 | Validation Acc: 98.450 % | Historical Best: 98.450 %
+2022-03-30 14:45:32,781 - voting.py[line:240] - INFO: Epoch: 007 | Validation Acc: 98.330 % | Historical Best: 98.450 %
+2022-03-30 14:45:56,743 - voting.py[line:240] - INFO: Epoch: 008 | Validation Acc: 98.420 % | Historical Best: 98.450 %
+2022-03-30 14:46:20,758 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2022-03-30 14:46:20,761 - voting.py[line:240] - INFO: Epoch: 009 | Validation Acc: 98.530 % | Historical Best: 98.530 %
